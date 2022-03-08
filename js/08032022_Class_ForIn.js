@@ -36,6 +36,7 @@ function loop () {
 function sum (num1, num2) {
     if (num1 >= 18 && num2 < 18) {
         console.log("Tu numero 1 es mayor al numero 2")
+        return num1
     } else if (num1 >= 18 && num2 >= 18) {
         console.log("Ambos numeros son mayores 18")
     } else if (num1 < 18 && num2 < 18) {
