@@ -9,7 +9,7 @@
             "name": "Launch Chrome",
             "request": "launch",
             "type": "pwa-chrome",
-            "url": "${workspaceFolder}/index.html",
+            "url": "${workspaceFolder}/new_index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]

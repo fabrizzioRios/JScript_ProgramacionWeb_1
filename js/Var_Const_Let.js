@@ -1,3 +1,4 @@
+
 var edad = 10
 let arrayNumero = [{
     "name": "luis1",
@@ -32,6 +33,8 @@ if (true) {
 console.log(edad)
 
 for (let hola in arrayNumero) {
+    if (arrayNumero) {
+
+    }
     console.log((arrayNumero[hola].name))
 }
-
